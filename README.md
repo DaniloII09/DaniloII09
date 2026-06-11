@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Danilo 😃</h1> 
+<h1 align="center">Hola, soy Danilo</h1> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/danilo-iraheta/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="danilo-iraheta"/></a>
@@ -6,20 +6,20 @@
 <a href = "mailto:00377223@uca.edu.sv" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="@uca.edu.sv"/></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mi</h2>
 
 <p align="left">
-🎓 ESTUDIANTE DE INGENIERIA INFORMÁTICA
+ESTUDIANTE DE INGENIERIA INFORMÁTICA
   
 Soy estudiante de Ingeniería Informática, me gusta el desarrollo backend y frontend y la seguridad de aplicaciones. Me encanta aprender nuevas tecnologías y trabajar en proyectos donde pueda aprender algo nuevo y romperme un poco la cabeza. 
 
-📫 Contacto: **danilo.iraheta2005@gmail.com**
+Contacto: **danilo.iraheta2005@gmail.com**
   </p>
 <br>
 
-<h2>🧠 Tecnologías</h2>
+<h2>Tecnologías</h2>
 
-<h3>💻 Lenguajes de programación</h3>
+<h3>Lenguajes de programación</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -29,7 +29,7 @@ Soy estudiante de Ingeniería Informática, me gusta el desarrollo backend y fro
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-<h3>🛠️ Frameworks y librerías</h3>
+<h3>Frameworks y librerías</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -38,7 +38,7 @@ Soy estudiante de Ingeniería Informática, me gusta el desarrollo backend y fro
   <img src="https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white" alt="Pug" />
 </p>
 
-<h3>🧰 Herramientas, IDEs y virtualización</h3>
+<h3>Herramientas, IDEs y virtualización</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -55,13 +55,13 @@ Soy estudiante de Ingeniería Informática, me gusta el desarrollo backend y fro
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 </p>
 
-<h3>🗄️ Bases de datos</h3>
+<h3>Bases de datos</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 </p>
 
-<h3>🌐 Otras tecnologías</h3>
+<h3>Otras tecnologías</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" />
@@ -73,7 +73,7 @@ Soy estudiante de Ingeniería Informática, me gusta el desarrollo backend y fro
 
 <br>
 
-<h2>📜 Cursos y certificaciones</h2>
+<h2>Cursos y certificaciones</h2>
 
 <ul>
   <li>
